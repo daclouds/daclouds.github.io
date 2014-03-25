@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://daclouds.github.io/sitemap.xml 
